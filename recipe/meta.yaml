@@ -1,5 +1,5 @@
 {% set name = "types-emoji" %}
-{% set version = "1.2.5" %}
+{% set version = "1.2.6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-emoji-{{ version }}.tar.gz
-  sha256: b61d6a8ef8d34590086e586eb78471ea440544cef5903d149848940625feb11e
+  sha256: 184113c4fbfaaba90d08aae03f11a23c21074cf1852cb0d010cbe5d926b02895
 
 build:
   number: 0
